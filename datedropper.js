@@ -114,7 +114,7 @@
 						'შაბათი'
 					]
 				}
-			},//
+			},
 			'it' : {
 				name : 'Italiano',
 				gregorian : true,
@@ -1192,6 +1192,60 @@
 						'Thứ năm',
 						'Thứ sáu',
 						'Thứ bảy'
+					]
+				}
+			},
+			'ca' : {
+				name : 'Catalan',
+				gregorian : true,
+				months : {
+					short: [
+						'Gen',
+						'Feb',
+						'Mar',
+						'Abr',
+						'Maig',
+						'Juny',
+						'Jul',
+						'Ago',
+						'Sept',
+						'Oct',
+						'Nov',
+						'Dec'
+					],
+					full : [
+						'Gener',
+						'Febrer',
+						'Març',
+						'Abril',
+						'Maig',
+						'Juny',
+						'Juliol',
+						'Agost',
+						'Septembre',
+						'Octubre',
+						'Novembre',
+						'Decembre'
+					]
+				},
+				weekdays : {
+					short : [
+						'DM',
+						'DL',
+						'DM',
+						'DC',
+						'DJ',
+						'DV',
+						'DS'
+					],
+					full : [
+						'Diumenge',
+						'Dilluns',
+						'Dimarts',
+						'Dimecres',
+						'Dijous',
+						'Divendres',
+						'Dissabte'
 					]
 				}
 			}
